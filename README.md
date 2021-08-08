@@ -22,6 +22,11 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Documentacion
+
+- Nota: para la docuemtacion debe acceder al url: "http://localhost:"port"/api 
+  (ejenplo: "http://localhost:3000/api)
+
 ## Importante
 
 *Configure las variables de entorno del archivo ".env.sample" para las credenciales se la BD a utilizar y luego convietalo a ".env" con sus credenciales para su funcionaminto.
